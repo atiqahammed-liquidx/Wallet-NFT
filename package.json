@@ -1,0 +1,12 @@
+{
+  "name": "Wallet-NFT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:atiqahammed-omnilytics/Wallet-NFT.git",
+  "author": "Atiq Ahammed",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
